@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1,NHK World Japan live
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="CBSDallasKTVT.us" tvg-name="CBS Dallas (KTVT)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",CBS Dallas (KTVT) (720p)
+#EXTINF:-1 tvg-id="CBSN DFW.us" tvg-name="CBSN DFW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",CBSN DFW (720p)
 https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-#EXTINF:-1 tvg-id="CBSDallasKTVT.us" tvg-name="CBS Dallas (KTVT)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",CBS Dallas (KTVT) (180p)
-https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master_6.m3u8
-#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",CBS News (720p)
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBSN USA" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",CBSN US (720p)
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",Fox News (720p)
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",NBC (720p)
-http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",NBC 4 New York (WNBC)
+https://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",NBC 6 South Florida (WTVJ)
+https://wtvjlive-f.akamaihd.net/i/wtvja1_1@19309/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="",NASA TV Public (720p)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="",NASA TV Media (720p)
