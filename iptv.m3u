@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,NHK World Japan live
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="CBSN DFW.us" tvg-name="CBSN DFW" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Local",CBSN DFW (720p)
 https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBSN USA" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",CBSN US (720p)
@@ -18,6 +18,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="",NASA TV (720p)
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",Austin PBS KLRU
-https://klrudt.lls.cdn.pbs.org/klrudt/4afb5e16-16d0-4803-bc68-70b7816d6c7c/primary.m3u8
+https://klrudt.lls.pbs.org/out/v1/c5d426d04957476186321c38e943c49f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",Arkansas PBS AETN
-https://ketsdt.lls.cdn.pbs.org/ketsdt/b5545820-5d66-4396-9f94-b5bd58aa34d9/primary.m3u8
+https://ketsdt.lls.pbs.org/out/v1/3eccbbb7a0544338b5ee13cf6d5fc1d8/index.m3u8
